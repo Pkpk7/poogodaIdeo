@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/poogodaIdeo/static/css/main.78714f87.chunk.css",
+    "main.js": "/poogodaIdeo/static/js/main.dbc0ca83.chunk.js",
+    "main.js.map": "/poogodaIdeo/static/js/main.dbc0ca83.chunk.js.map",
+    "runtime-main.js": "/poogodaIdeo/static/js/runtime-main.d97906ff.js",
+    "runtime-main.js.map": "/poogodaIdeo/static/js/runtime-main.d97906ff.js.map",
+    "static/css/2.c310cfc4.chunk.css": "/poogodaIdeo/static/css/2.c310cfc4.chunk.css",
+    "static/js/2.c5087410.chunk.js": "/poogodaIdeo/static/js/2.c5087410.chunk.js",
+    "static/js/2.c5087410.chunk.js.map": "/poogodaIdeo/static/js/2.c5087410.chunk.js.map",
+    "index.html": "/poogodaIdeo/index.html",
+    "precache-manifest.455ea60042230513adfbcbc8a455c4ea.js": "/poogodaIdeo/precache-manifest.455ea60042230513adfbcbc8a455c4ea.js",
+    "service-worker.js": "/poogodaIdeo/service-worker.js",
+    "static/css/2.c310cfc4.chunk.css.map": "/poogodaIdeo/static/css/2.c310cfc4.chunk.css.map",
+    "static/css/main.78714f87.chunk.css.map": "/poogodaIdeo/static/css/main.78714f87.chunk.css.map",
+    "static/js/2.c5087410.chunk.js.LICENSE.txt": "/poogodaIdeo/static/js/2.c5087410.chunk.js.LICENSE.txt",
+    "static/media/Logo.9692b8de.svg": "/poogodaIdeo/static/media/Logo.9692b8de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d97906ff.js",
+    "static/css/2.c310cfc4.chunk.css",
+    "static/js/2.c5087410.chunk.js",
+    "static/css/main.78714f87.chunk.css",
+    "static/js/main.dbc0ca83.chunk.js"
+  ]
+}
